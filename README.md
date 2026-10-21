@@ -1,4 +1,4 @@
-# Keestar Restaurant Website
+# Reestar Restaurant Website
 
 **A clean, minimalist restaurant landing page featuring a delicious menu grid and an interactive contact form.** Built from scratch using semantic HTML5 and custom CSS3 styling.
 
